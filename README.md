@@ -31,4 +31,9 @@ Each file includes queries for various SQL challenges — covering **basic to ad
 
 ---
 
+🏁 Notes
+
+Feel free to use and reference this repository for learning, practice, and interview preparation.
+Contributions and suggestions are always welcome!
+
 

@@ -1,6 +1,7 @@
 # 🧩 SQL Practice Repository
 
-This repository contains my **SQL practice solutions** from **HackerRank**.  
+This repository contains my **SQL practice solutions** from **HackerRank**.
+Here is my HackerRank link (https://www.hackerrank.com/profile/reddysahana748)
 It also includes **SQL interview questions** for revision and preparation.
 
 I solve **SQL problems on HackerRank daily** and **regularly upload my solutions** here to track my progress and strengthen my database skills.

@@ -1,10 +1,9 @@
 # 🧩 SQL Practice Repository
 
-This repository contains my **SQL practice solutions** from **HackerRank**.
-Here is my HackerRank link (https://www.hackerrank.com/profile/reddysahana748)
+This repository contains my **SQL practice solutions** from **HackerRank** and **Leetcode**.
 It also includes **SQL interview questions** for revision and preparation.
 
-I solve **SQL problems on HackerRank daily** and **regularly upload my solutions** here to track my progress and strengthen my database skills.
+I solve **SQL problems daily** and **regularly upload my solutions** here to track my progress and strengthen my database skills.
 
 Each file includes queries for various SQL challenges — covering **basic to advanced concepts** such as filtering, joins, aggregation, subqueries, ranking, and window functions.
 
@@ -19,14 +18,13 @@ Each file includes queries for various SQL challenges — covering **basic to ad
 - Joins (`INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`)  
 - Subqueries & Nested Queries  
 - Window Functions (`RANK`, `DENSE_RANK`, `ROW_NUMBER`)  
-- Advanced Query Problems (Nth Highest, Correlated Subqueries, etc.)
+- Advanced Query Problems (`Nth Highest`, `Correlated Subqueries`, etc.)
 
 ---
 
 ## 🚀 About This Repository
 
-- 🗓️ Updated **daily** with new SQL challenges  
-- 🧩 Covers **HackerRank SQL domains** and **interview-style problems**  
+- 🗓️ Updated **daily** with new SQL challenges   
 - 🗃️ Suitable for **beginners and intermediate learners**  
 - 🧠 Helps in **building strong query-solving logic**
 
